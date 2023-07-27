@@ -3,8 +3,7 @@
 This repository contains my work as I go through the 100 Days of Python challenge. Each day, I will upload my code for the day's challenge. I hope this will be a helpful resource for others who are also taking the challenge.
 
 What is the 100 Days of Python Fullstack challenge?
-The 100 Days of Python Fullstack challenge is a coding challenge where you learn to build web application, Games and other projects using Python. The challenge is to commit to coding for at least an hour each day for 100 days.
-
+The 100 Days of Python Fullstack challenge is a coding challenge where you learn to build web application, Games and other projects using Python. The challenge is to commit to coding for at least an hour each day for 100 days. This chalenge wiill take you from basics to advanced topics for Python Stack
 
 What will I learn?
 Through this challenge, you will learn the following:
